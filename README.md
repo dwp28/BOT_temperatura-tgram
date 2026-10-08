@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="telegram.jpg" alt="Telegram Bot Logo" width="150" />
-</p>
-
 <h1 align="center">🌤️ ClimaBot - Asistente Meteorológico para Telegram</h1>
 
 <p align="center">
@@ -13,6 +9,10 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Telegram_API-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/OpenWeather-E96E50?style=flat-square&logo=openweathermap&logoColor=white" alt="OpenWeather" />
+</p>
+
+<p align="center">
+  <img src="telegram_image.jpg" alt="Telegram Bot Logo" width="350" />
 </p>
 
 <hr>
